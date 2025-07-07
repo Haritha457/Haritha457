@@ -48,7 +48,13 @@ Semantic segmentation model for glacial mapping with 76.9% accuracy.
 
 ---
 
-## 📫 Let's Connect
+## 📈 GitHub Stats
 
-- [LinkedIn](https://www.linkedin.com/in/haritha-nasina-046206310/)
-- ✉️ nasinaharitha192110275@gmail.com
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haritha457&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat&link=https://www.linkedin.com)](https://www.linkedin.com/in/haritha-nasina-046206310/)
+[![Email](https://img.shields.io/badge/Email-nasinaharitha21@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nasinaharitha21@gmail.com)
