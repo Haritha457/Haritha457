@@ -36,53 +36,55 @@ Oracle Cloud Infrastructure 2024 Generative AI Certified Professional with pract
 
 Passionate about building enterprise-grade software solutions aligned with modern software engineering practices and AI-driven development workflows.
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-- Java
-- Python
-- SQL
+### 🧠 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 🤖 AI, ML & Deep Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C2D91?style=for-the-badge)
+![DeepLabv3+-00BFFF?style=for-the-badge)
+![U--Net](https://img.shields.io/badge/U--Net-008080?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF1493?style=for-the-badge)
 
 ### ☁️ Cloud & DevOps
-- Oracle Cloud Infrastructure (OCI)
-- Microsoft Azure Fundamentals
-- Git
-- GitHub
-- Version Control
+![Oracle OCI](https://img.shields.io/badge/Oracle_OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🧠 AI, ML & Deep Learning
-- TensorFlow
-- Keras
-- Deep Learning
-- Machine Learning Algorithms
-- Computer Vision
-- Semantic Segmentation
-- DeepLabv3+
-- U-Net
-- Generative AI
-- Prompt Engineering
+### 🌐 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge)
 
-### ⚙️ Automation & IoT
-- IoT System Design
-- Blynk Platform
-- Smart Home Automation
-- Workflow Automation
+### ⚙️ Software Engineering
+![OOP](https://img.shields.io/badge/OOP-00599C?style=for-the-badge)
+![SDLC](https://img.shields.io/badge/SDLC-4CAF50?style=for-the-badge)
+![Debugging](https://img.shields.io/badge/Debugging-FF9800?style=for-the-badge)
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-2196F3?style=for-the-badge)
 
-### 📊 Data Technologies
-- SQL
-- DBMS
-- ETL Concepts
-- Pandas
-- NumPy
-- Power BI
-- Data Visualization
+### 🏠 Automation & IoT
+![IoT](https://img.shields.io/badge/IoT_System_Design-009688?style=for-the-badge)
+![Blynk](https://img.shields.io/badge/Blynk-23C48E?style=for-the-badge)
+![Smart Home Automation](https://img.shields.io/badge/Smart_Home_Automation-3F51B5?style=for-the-badge)
+![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-795548?style=for-the-badge)
 
-### 🏗️ Software Engineering
-- Object-Oriented Programming
-- SDLC
-- Debugging
-- Unit Testing
-
+### 🛠️ Tools & IDEs
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ## 📌 Featured Projects
 
 ### 🏔️ DeepLabv3+ for Glacial Segmentation
