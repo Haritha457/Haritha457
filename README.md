@@ -55,7 +55,6 @@ Passionate about building enterprise-grade software solutions aligned with moder
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C2D91?style=for-the-badge)
-![DeepLabv3+-00BFFF?style=for-the-badge)
 ![U--Net](https://img.shields.io/badge/U--Net-008080?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF1493?style=for-the-badge)
@@ -66,9 +65,10 @@ Passionate about building enterprise-grade software solutions aligned with moder
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🌐 Databases
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-00599C?style=for-the-badge)
 
 ### ⚙️ Software Engineering
 ![OOP](https://img.shields.io/badge/OOP-00599C?style=for-the-badge)
