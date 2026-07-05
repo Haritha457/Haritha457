@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Haritha</h1>
+
 <h3 align="center">Computer Science Graduate | Software Developer | Machine Learning Engineer | Deep Learning | Cloud & AI | Python | Java | SQL</h3>
 
 ---
@@ -12,11 +12,21 @@
 
 ## 🚀 About Me
 
-I'm a final-year Computer Science student with a strong interest in software development and data analytics. I love turning real-world problems into working code using Python, Java, SQL, and modern libraries.
+# Hi there 👋 I'm Haritha
 
-Recently, I worked on a project involving **DeepLabv3+ for Glacial Segmentation**, where I explored semantic segmentation and statistical analysis to improve environmental monitoring systems.
+🎓 Computer Science Graduate (CGPA: 9.1/10)
 
-✨ I enjoy building clean, functional software and analyzing datasets to extract insights. Currently learning about data visualization, APIs, and full-stack app building.
+💻 Software Developer | Machine Learning Engineer
+
+☁️ OCI 2024 Generative AI Certified Professional
+
+🧠 Experienced in Deep Learning, Computer Vision, Semantic Segmentation, Cloud Technologies, and IoT Automation
+
+🚀 Passionate about building scalable software systems and AI-powered applications
+
+📍 Nellore, Andhra Pradesh, India
+
+📫 Reach me at: your-email@example.com
 
 ---
 
