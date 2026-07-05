@@ -104,7 +104,8 @@ Developed a web application for citizen complaint registration, tracking, and re
 
 **Tech Stack:** Python, Flask, SQL, HTML, CSS, JavaScript
 
-## 🏆 Certifications
+
+### 🏆 Certifications
 
 - Oracle Cloud Infrastructure 2024 Generative AI Certified Professional
 - Python for Data Science — IBM Developer Skills Network
