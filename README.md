@@ -1,70 +1,133 @@
 
-<h3 align="center">Computer Science Graduate | Software Developer | Machine Learning Engineer | Deep Learning | Cloud & AI | Python | Java | SQL</h3>
+<h1 align="center">Hi 👋, I'm Haritha</h1>
+
+<h3 align="center">
+Computer Science Graduate | Software Developer | Machine Learning Engineer |
+Deep Learning | Cloud & AI | Python | Java | SQL
+</h3>
+
+<p align="center">
+🎓 CGPA: <b>9.1/10</b> &nbsp; | &nbsp;
+☁️ OCI 2024 Generative AI Certified Professional &nbsp; | &nbsp;
+📍 Nellore, Andhra Pradesh, India
+</p>
+
+<p align="center">
+💻 Software Development &nbsp; • &nbsp;
+🧠 Machine Learning & Deep Learning &nbsp; • &nbsp;
+☁️ Cloud Technologies &nbsp; • &nbsp;
+🤖 AI Solutions
+</p>
+
+<p align="center">
+📫 <b>Email:</b> nasinaharitha21@gmail.com
+</p>
 
 ---
 
-🎓 B.Tech in Computer Science
-💡 Passionate about Python, Java, SQL, and solving real-world problems through data  
-🚀 Exploring Data Analytics | AI | Cloud | Full-Stack Development  
-📫 How to reach me: nasinaharitha21@gmail.com
-
----
 
 ## 🚀 About Me
 
-# Hi there 👋 I'm Haritha
+Results-driven Computer Science graduate (CGPA 9.1/10.0) with hands-on experience in Java, Python, machine learning, and cloud-based automation.
 
-🎓 Computer Science Graduate (CGPA: 9.1/10)
+Experienced in designing scalable software solutions, implementing deep learning pipelines, and building IoT-driven automation systems.
 
-💻 Software Developer | Machine Learning Engineer
+Oracle Cloud Infrastructure 2024 Generative AI Certified Professional with practical experience in Computer Vision, Semantic Segmentation, and AI-powered applications.
 
-☁️ OCI 2024 Generative AI Certified Professional
+Passionate about building enterprise-grade software solutions aligned with modern software engineering practices and AI-driven development workflows.
 
-🧠 Experienced in Deep Learning, Computer Vision, Semantic Segmentation, Cloud Technologies, and IoT Automation
+## 🛠️ Tech Stack & Skills
 
-🚀 Passionate about building scalable software systems and AI-powered applications
+### 💻 Programming Languages
+- Java
+- Python
+- SQL
 
-📍 Nellore, Andhra Pradesh, India
+### ☁️ Cloud & DevOps
+- Oracle Cloud Infrastructure (OCI)
+- Microsoft Azure Fundamentals
+- Git
+- GitHub
+- Version Control
 
-📫 Reach me at: your-email@example.com
+### 🧠 AI, ML & Deep Learning
+- TensorFlow
+- Keras
+- Deep Learning
+- Machine Learning Algorithms
+- Computer Vision
+- Semantic Segmentation
+- DeepLabv3+
+- U-Net
+- Generative AI
+- Prompt Engineering
+
+### ⚙️ Automation & IoT
+- IoT System Design
+- Blynk Platform
+- Smart Home Automation
+- Workflow Automation
+
+### 📊 Data Technologies
+- SQL
+- DBMS
+- ETL Concepts
+- Pandas
+- NumPy
+- Power BI
+- Data Visualization
+
+### 🏗️ Software Engineering
+- Object-Oriented Programming
+- SDLC
+- Debugging
+- Unit Testing
+
+## 📌 Featured Projects
+
+### 🏔️ DeepLabv3+ for Glacial Segmentation
+Implemented DeepLabv3+ semantic segmentation model for accurate glacial mapping, outperforming U-Net in precision and F1-score.
+
+**Tech Stack:** Python, TensorFlow, Keras, OpenCV, Deep Learning
 
 ---
 
-## 🛠️ Tech Stack
+### 🏠 Advanced Home Automation Hub
+Developed an end-to-end IoT smart home solution with cloud-based monitoring, automation workflows, and remote device control.
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-### 📊 Data & Analysis
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib)
-
-### ⚙️ Tools
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code)
+**Tech Stack:** Python, IoT, Blynk, Cloud, Automation
 
 ---
 
-## 📘 Projects
+### 🏙️ Smart City Grievance Portal
+Developed a web application for citizen complaint registration, tracking, and resolution management.
 
-🔹 [Glacial Segmentation using DeepLabv3+](https://github.com/Haritha457/glacial-segmentation)  
-Semantic segmentation model for glacial mapping with 76.9% accuracy.
+**Tech Stack:** Python, Flask, SQL, HTML, CSS, JavaScript
 
-*(More projects coming soon...)*
+## 🏆 Certifications
 
----
+- Oracle Cloud Infrastructure 2024 Generative AI Certified Professional
+- Python for Data Science — IBM Developer Skills Network
+- Data Analytics: SQL, Power BI & Python — Besant Technologies
+- Python Development Internship Certification — Re-Tech Solution Pvt. Ltd.
 
 ## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haritha457&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Haritha457&show_icons=true&theme=tokyonight" />
+</p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haritha457&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Haritha457&theme=tokyonight" />
+</p>
 ---
 
 ### 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat&link=https://www.linkedin.com)](https://www.linkedin.com/in/haritha-nasina-046206310/)
 [![Email](https://img.shields.io/badge/Email-nasinaharitha21@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nasinaharitha21@gmail.com)
+GitHub: https://github.com/Haritha457
