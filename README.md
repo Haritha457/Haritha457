@@ -115,10 +115,14 @@ Developed an end-to-end IoT smart home solution with cloud-based monitoring, aut
 - **Data Analytics: SQL, Power BI & Python — Besant Technologies**
 - **Python Development Internship Certification — Re-Tech Solution Pvt. Ltd.**
 
+
 ---
 
-### 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat&link=https://www.linkedin.com)](https://www.linkedin.com/in/haritha-nasina-046206310/)
-[![Email](https://img.shields.io/badge/Email-nasinaharitha21@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nasinaharitha21@gmail.com)
-GitHub: https://github.com/Haritha457
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+[![Email](https://img.shields.io/badge/Email-NASINAHARITHA21%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nasinaharitha21@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-HARITHA457-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haritha457)
