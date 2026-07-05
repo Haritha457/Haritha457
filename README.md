@@ -115,7 +115,7 @@ Developed an end-to-end IoT smart home solution with cloud-based monitoring, aut
 - **Data Analytics: SQL, Power BI & Python — Besant Technologies**
 - **Python Development Internship Certification — Re-Tech Solution Pvt. Ltd.**
 
-
+---
 
 ### 📬 Let's Connect
 
