@@ -87,6 +87,13 @@ Passionate about building enterprise-grade software solutions aligned with moder
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ## 📌 Featured Projects
 
+### 🏙️ Smart City Grievance Portal
+Developed a web application for citizen complaint registration, tracking, and resolution management.
+
+**Tech Stack:** Python, Flask, SQL, HTML, CSS, JavaScript, PostgreSQL
+
+---
+
 ### 🏔️ DeepLabv3+ for Glacial Segmentation
 Implemented DeepLabv3+ semantic segmentation model for accurate glacial mapping, outperforming U-Net in precision and F1-score.
 
@@ -101,33 +108,14 @@ Developed an end-to-end IoT smart home solution with cloud-based monitoring, aut
 
 ---
 
-### 🏙️ Smart City Grievance Portal
-Developed a web application for citizen complaint registration, tracking, and resolution management.
-
-**Tech Stack:** Python, Flask, SQL, HTML, CSS, JavaScript
-
-
 ### 🏆 Certifications
 
-- Oracle Cloud Infrastructure 2024 Generative AI Certified Professional
-- Python for Data Science — IBM Developer Skills Network
-- Data Analytics: SQL, Power BI & Python — Besant Technologies
-- Python Development Internship Certification — Re-Tech Solution Pvt. Ltd.
+- **Oracle Cloud Infrastructure 2024 Generative AI Certified Professional**
+- **Python for Data Science — IBM Developer Skills Network**
+- **Data Analytics: SQL, Power BI & Python — Besant Technologies**
+- **Python Development Internship Certification — Re-Tech Solution Pvt. Ltd.**
 
-## 📈 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Haritha457&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haritha457&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Haritha457&theme=tokyonight" />
-</p>
----
 
 ### 📬 Let's Connect
 
